@@ -22,7 +22,7 @@ const AllianceLanding = () => {
           </div>
         </div>
           <div className="flex flex-col items-start gap-1">
-            <h4 className="text-xs font-medium opacity-80 uppercase flex flex-wrap gap-2 items-center">
+            {/* <h4 className="text-xs font-medium opacity-80 uppercase flex flex-wrap gap-2 items-center">
               <span>Project at</span>
               <span className="flex gap-1">
                 <Image
@@ -33,7 +33,7 @@ const AllianceLanding = () => {
                 />
                 Terraform Labs
               </span>
-            </h4>
+            </h4> */}
             <div className="w-full flex gap-2 items-center">
               <h1 className="text-2xl font-medium dark:text-white text-black uppercase opacity-90">
                 Alliance Landing
