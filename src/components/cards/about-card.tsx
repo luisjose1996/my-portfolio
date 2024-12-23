@@ -22,8 +22,7 @@ const AboutCard = () => {
         </div>
 
         <p className="dark:text-white text-slate-900 tracking-wide leading-6 text-xs sm:text-sm">
-          I am passionate about building beautiful and functional user interfaces.<br />
-          Currently work at Software Engineer on Dhamira.
+          Innovative software engineer with 6 years of experience, specializing in creating elegant solutions and seamless user experiences.<br />Passionate about technology and committed to excellence.
         </p>
       </div>
     </CardWrapper>
